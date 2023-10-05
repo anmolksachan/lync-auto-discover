@@ -1,0 +1,1 @@
+# lync-auto-discover
